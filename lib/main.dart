@@ -28,8 +28,6 @@ class MyHomePage extends StatefulWidget {
 
 double zoomP = 0.5;
 double zoomF = 0.2;
-double chartZoomP = 0.5;
-double chartZoomF = 0.2;
 
 class _MyHomePageState extends State<MyHomePage> {
   @override
